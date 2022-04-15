@@ -85,6 +85,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=savioxavier&repo=repo-finder-bot&theme=vue-dark&hide_border=true&border_radius=10)](https://github.com/savioxavier/repo-finder-bot)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=savioxavier&repo=termlink&theme=vue-dark&hide_border=true&border_radius=10)](https://github.com/savioxavier/termlink)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=savioxavier&repo=discord-neofetch&theme=vue-dark&hide_border=true&border_radius=10)](https://github.com/savioxavier/discord-neofetch)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=savioxavier&repo=leetspeak&theme=vue-dark&hide_border=true&border_radius=10)](https://github.com/savioxavier/leetspeak)
