@@ -12,7 +12,7 @@
 ##### STUFF I'VE WORKED ON:
 
 - Created [Repo Finder](https://github.com/savioxavier/repo-finder-bot) - Discord bot that helps new-timers find useful repos to contribute to (because opensource is cool!)
-- Worked on ShareAura, an exchange platform made for students, by students.
+- Worked on ShareAura, an exchange platform made for students, by students - using Ionic Vue.
 - Maintainer of [Minima](https://github.com/gominima) - a lightweight and reliable Go backend framework with 0 dependencies.
 - ...and a few more stuff that I haven't listed here.
 
