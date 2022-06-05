@@ -77,7 +77,6 @@
 
 ##### SOME POPULAR REPOS
 
-
 <details>
 
 <summary><strong><em>Popular Repos (show/hide)</em></strong></summary>
@@ -90,8 +89,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=savioxavier&repo=leetspeak&theme=vue-dark&hide_border=true&border_radius=10)](https://github.com/savioxavier/leetspeak)
 
-</details> 
- 
+</details>
+
 ##### SUPPORT
 
 - Help me create better and even better stuff in the future by **buying me a coffee!**
