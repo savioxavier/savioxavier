@@ -1,5 +1,7 @@
 <!-- markdownlint-disable no-inline-html MD041 MD026-->
 
+![image](https://user-images.githubusercontent.com/38729705/172122085-41a3338a-bfbd-4802-a877-054796bbc178.png#gh-dark-mode-only)
+
 ## ✨ This file serves as a guide to the main [README.md](./README.md) of my profile
 
 Why you ask? Well, I'm not really sure, but I wanted a place to help any users curious enough to understand stuff that's in my README, like what purpose each section serves, where I got my data and images from and so on. Think of this as a guide to help you understand and find resources to help you make your own READMEs.
@@ -74,3 +76,5 @@ Yes, I'm aware this is unconventional and uncommon and this might as well be the
 ---
 
 That's about it, honestly. I really dunno why I decided to create this, but thanks a lot for reading and I hope it helps you out
+
+![image](https://user-images.githubusercontent.com/38729705/172121968-404c43b9-994a-41e9-ba5e-57406defaf13.png#gh-dark-mode-only)
