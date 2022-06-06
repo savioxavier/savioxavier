@@ -99,6 +99,6 @@
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50px">
 </a>
 
-> **For more information about this README, check out [README_GUIDE,md](./README_GUIDE.md)**
-
 ---
+
+> **For more information about this README, check out [README_GUIDE,md](./README_GUIDE.md)**
