@@ -1,6 +1,7 @@
 <!-- markdownlint-disable no-inline-html MD041 MD026-->
 
 ![image](https://user-images.githubusercontent.com/38729705/172122085-41a3338a-bfbd-4802-a877-054796bbc178.png#gh-dark-mode-only)
+![image](https://user-images.githubusercontent.com/38729705/172122556-1c8935fb-5ed3-4a1a-ae2f-e6f9db75d90c.png#gh-light-mode-only)
 
 ## ✨ This file serves as a guide to the main [README.md](./README.md) of my profile
 
@@ -78,3 +79,4 @@ Yes, I'm aware this is unconventional and uncommon and this might as well be the
 That's about it, honestly. I really dunno why I decided to create this, but thanks a lot for reading and I hope it helps you out
 
 ![image](https://user-images.githubusercontent.com/38729705/172121968-404c43b9-994a-41e9-ba5e-57406defaf13.png#gh-dark-mode-only)
+![image](https://user-images.githubusercontent.com/38729705/172122628-4b24f5b9-920c-4269-b75d-e55c8923bc5f.png#gh-light-mode-only)
