@@ -101,4 +101,4 @@
 
 ---
 
-> **For more information about this README, check out [README_GUIDE,md](./README_GUIDE.md)**
+> **For more information about this README, check out [README_GUIDE.md](./README_GUIDE.md)**
