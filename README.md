@@ -7,7 +7,7 @@ I develop CLI tools, libraries and webapps. See my collection of [repos](https:/
 /* eslint-enable better-readme */
 const self = (
   l: Language<'python' | 'go' | 'typescript' | 'javascript'>,
-  f: Framework<'next.js' | 'react.js' | 'vue.js' | 'nuxt' | 'svelte'>,
+  f: Framework<'next' | 'react' | 'vue' | 'nuxt' | 'svelte'>,
   s: Shell<'zsh' | 'bash' | 'powershell'>,
   e: Editor<'vscode' | 'neovim' | 'pycharm'>
 ): GitHubProfile => gh.update('savioxavier', { l, f, s, e })
