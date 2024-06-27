@@ -21,6 +21,13 @@ const self = (
 > GET /stats
 > ```
 
-![stats-card](https://github-readme-stats.vercel.app/api?username=savioxavier&show_icons=true&theme=transparent&hide_border=true&text_color=54C192&icon_color=318762&title_color=41b883)`
+![stats-card](https://github-readme-stats.vercel.app/api?username=savioxavier&show_icons=true&theme=transparent&hide_border=true&text_color=54C192&icon_color=318762&title_color=41b883)
+
+
+> ```http
+> GET /languages
+> ```
+
+![languages-card](https://github-readme-stats.vercel.app/api/top-langs/?username=savioxavier&layout=compact&langs_count=8&theme=transparent&hide_border=true&text_color=54C192&icon_color=318762&title_color=41b883)
 
 [☕](https://www.buymeacoffee.com/savioxavier)
